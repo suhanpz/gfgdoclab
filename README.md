@@ -45,9 +45,10 @@ Windows:
 git clone https://github.com/codewithsadee/doclab.git
 ```
 
-### Contact
+### Local Host
+http://34.125.239.139/#
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
 
 ### License
 
