@@ -169,8 +169,8 @@ To host a website for free, follow these general steps:
 
 7.Your website is now live and accessible on the internet, hosted for free. Keep in mind that free hosting services may have limitations in terms of storage, bandwidth, and features, and may display ads on your site.
 
-
-
+###Local Host:
+http://34.125.239.139/#
 
 
 
