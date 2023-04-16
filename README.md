@@ -91,8 +91,11 @@ It is a popular open-source front-end framework for building responsive and mobi
 ### STEPS TO HOST A WEBSITE: 
 To host a website for free, follow these general steps:
 1.Choose a free web hosting service like GitHub Pages, Netlify, or InfinityFree.
+
 2.Register a free domain name, or use a subdomain provided by the hosting service.
+
 3.Upload your website files using the hosting service's file manager or FTP.
+
 4.Configure your website, including any necessary databases or settings.
 5.Test your website to ensure it's functioning properly.
 6.Update your domain DNS settings to point to the hosting service's server.
