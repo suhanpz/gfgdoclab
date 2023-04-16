@@ -76,54 +76,17 @@ JAVASCRIPT
 BOOTSTRAP
 
 ### HTML:
-HTML, which stands for Hypertext Markup Language, is the standard markup language used to create web pages and web applications. HTML provides a set of tags and attributes that define the structure, content, and presentation of a web page. Web browsers interpret HTML code and render it into visual web pages that users can view in their web browsers.
-
-Some key concepts in HTML include:
-
-Tags: HTML uses tags to define different elements on a web page, such as headings, paragraphs, images, links, lists, forms, and more. Tags are enclosed in angle brackets (<>) and can have attributes that provide additional information about the element.
-
-Elements: Elements in HTML are created using tags and define the different parts of a web page, such as headings, paragraphs, images, and more.
-
-Attributes: Attributes provide additional information about HTML elements and are used to customize their behavior or appearance. Attributes are defined within the opening tag of an element and have a name and a value.
-
-Nesting: HTML elements can be nested inside other elements, allowing for the creation of complex and structured web pages.
-
-Semantics: HTML includes semantic elements, such as <header>, <nav>, <main>, <footer>, etc., that provide meaning and structure to the content of a web page, making it more accessible and search engine friendly.
-
-Links: HTML allows for creating hyperlinks that allow users to navigate between web pages, websites, or external resources.
-
-Forms: HTML provides form elements, such as <form>, <input>, <select>, <textarea>, etc., that allow users to input data and submit it to a server for processing.
-
-HTML is the foundation of web development and is used in conjunction with CSS and JavaScript to create web pages and web applications with different layouts, styles, and interactivity. It is a markup language that is easy to learn and essential for creating static and dynamic web content.
-
+HTML, which stands for Hypertext Markup Language, is the standard markup language used to create web pages and web applications. HTML provides a set of tags and attributes that define the structure, content, and presentation of a web page. Web browsers interpret HTML code and render it into visual web pages that users can view in their web browsers.HTML is the foundation of web development and is used in conjunction with CSS and JavaScript to create web pages and web applications with different layouts, styles, and interactivity. It is a markup language that is easy to learn and essential for creating static and dynamic web content.
 
 ### CSS:
-CSS, which stands for Cascading Style Sheets, is a stylesheet language used in web development to describe the presentation and appearance of HTML (Hypertext Markup Language) documents. CSS allows developers to control the layout, design, and formatting of web pages, including elements such as fonts, colors, spacing, positioning, and more.
-CSS uses a set of rules and selectors to target HTML elements and apply styles to them. Styles can be defined inline within HTML elements, embedded within HTML documents, or included in separate external CSS files that are linked to HTML documents.
-
-Some key concepts in CSS include:
-
-Selectors: These specify which HTML elements to target with styles. Selectors can target elements by their element type, class, ID, or other attributes.
-
-Properties: These define the visual properties of HTML elements, such as font-size, color, margin, padding, etc.
-
-Values: These specify the values of the properties, such as "red" for color or "12px" for font-size.
-
-Cascading: CSS follows a cascade model, which means that styles can be overridden and combined based on their specificity, order, and inheritance.
-
-Responsive Design: CSS allows for creating responsive designs that adapt to different screen sizes and devices, using techniques such as media queries and flexible layouts.
-
-CSS is a powerful tool for web developers to control the visual appearance of web pages, and it is widely used in conjunction with HTML and JavaScript to create modern and interactive web experiences.
+CSS, which stands for Cascading Style Sheets, is a stylesheet language used in web development to describe the presentation and appearance of HTML (Hypertext Markup Language) documents. CSS allows developers to control the layout, design, and formatting of web pages, including elements such as fonts, colors, spacing, positioning, and more.CSS uses a set of rules and selectors to target HTML elements and apply styles to them. Styles can be defined inline within HTML elements, embedded within HTML documents, or included in separate external CSS files that are linked to HTML documents.CSS is a powerful tool for web developers to control the visual appearance of web pages, and it is widely used in conjunction with HTML and JavaScript to create modern and interactive web experiences.
 
 ### JAVASCRIPT:
 JavaScript is a widely-used programming language that allows developers to add dynamic and interactive elements to websites and web applications. JavaScript is a client-side scripting language, which means it runs on the client's web browser and can be used to manipulate web page elements, handle user interactions, and perform various actions in response to events.
 
 
 ### Bootstrap:
-It is a popular open-source front-end framework for building responsive and mobile-first websites and web applications. It provides a collection of CSS, JavaScript, and pre-designed UI components that can be easily integrated into web projects to create modern and visually appealing user interfaces. Bootstrap simplifies the process of designing and developing responsive websites with its grid system, typography, forms, buttons, navigation, and other UI elements. It also offers a variety of customization options, allowing developers to tailor the appearance and behavior of their web projects to suit their specific needs. Bootstrap is widely used in web development and has a large community of developers and resources available for support and documentation.#BOOTSTRAP:
-
-
-
+It is a popular open-source front-end framework for building responsive and mobile-first websites and web applications. It provides a collection of CSS, JavaScript, and pre-designed UI components that can be easily integrated into web projects to create modern and visually appealing user interfaces. Bootstrap simplifies the process of designing and developing responsive websites with its grid system, typography, forms, buttons, navigation, and other UI elements. It also offers a variety of customization options, allowing developers to tailor the appearance and behavior of their web projects to suit their specific needs. Bootstrap is widely used in web development and has a large community of developers and resources available for support and documentation.
 
 ### STEPS TO HOST A WEBSITE: 
 To host a website for free, follow these general steps:
