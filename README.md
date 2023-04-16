@@ -63,11 +63,11 @@ This project is **free to use** and does not contains any license.
   ### Project Description/Solution: 
   This is a medical system designed to manage the activities in the hospital. The new patients can request an appointment with the help of this website.
 
-The website confirms the appointment based on the availability of free slots for the respective doctors and the patient is informed. It is very important to maintain efficient software to handle the information of a hospital.
+The website confirms the appointment based on the availability of free slots for the respective doctors and the patient is informed. It is very important to maintain efficient software to handle the information of a hospitaL.  Website  offer online services, such as appointment scheduling, bill payment, and access to medical records, making it convenient for patients to interact with the hospital and manage their healthcare needs remotely.Facilitate communication and engagement with patients, their families, and the community. It can include features such as contact forms, feedback forms, live chat, and social media integration, allowing patients and visitors to connect with the hospital, provide feedback, and ask questions.
 
 This application provides a way to record this information and to access these in a simple way. Online Hospital Management Systems enables you to develop your organization and improve its effectiveness and quality of work. Managing the key processes efficiently is critical to the success of the hospital.
 
-Since we are entering details of the patients electronically in the Hospital Management System, the data will be secured. Thus, processing information will be faster. It guarantees accurate maintenance of patient’s appointments details.
+Since we are entering details of the patients electronically in the Hospital Management System, the data will be secured. Thus, processing information will be faster. It guarantees accurate maintenance of patient’s appointments details.It  provides articles, videos, and resources on various health conditions, treatments, and preventive care, helping patients better understand their health and make informed choices.It  provide comprehensive and up-to-date information about the hospital's services, specialties, doctors, and other important details. Patients and their families can access this information to make informed decisions about their healthcare needs, such as finding the right doctor, booking appointments, or understanding treatment options.
 
 ### BUILT WITH:
 HTML 
