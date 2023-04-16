@@ -56,7 +56,7 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 This project is **free to use** and does not contains any license.
 
 ### Description:
-   In this Project we aim to solve the traditional issues of hospital management.  Medical website designed is to help hospitals and it is also beneficial for different patient to classify their respective disease and their concern doctors.As It is having a special System Checker option which is very beneficial for new patient.
+  With this project, we hope to address long-standing hospital management problems.  This healthcare website was created to assist hospitals, but it is also useful for people to categorise their specific diseases and the doctors that are concerned about them.Because it has a unique System Checker function, new patients will find it to be quite helpful.
   ###  Problem Statement/Opportunity: 
   These days, due to the pandemic, there has been a great increase in no of patients in the hospitals and one must wait a lot to get any test done. It has become difficult in the selection of suitable medicine for the type of illness and this usually takes time and makes the patient or customer wait. Therefore, the time is being wasted for the customer to be waiting.
 
