@@ -82,8 +82,23 @@ HTML, which stands for Hypertext Markup Language, is the standard markup languag
 CSS, which stands for Cascading Style Sheets, is a stylesheet language used in web development to describe the presentation and appearance of HTML (Hypertext Markup Language) documents. CSS allows developers to control the layout, design, and formatting of web pages, including elements such as fonts, colors, spacing, positioning, and more.CSS uses a set of rules and selectors to target HTML elements and apply styles to them. Styles can be defined inline within HTML elements, embedded within HTML documents, or included in separate external CSS files that are linked to HTML documents.CSS is a powerful tool for web developers to control the visual appearance of web pages, and it is widely used in conjunction with HTML and JavaScript to create modern and interactive web experiences.
 
 ### JAVASCRIPT:
-JavaScript is a widely-used programming language that allows developers to add dynamic and interactive elements to websites and web applications. JavaScript is a client-side scripting language, which means it runs on the client's web browser and can be used to manipulate web page elements, handle user interactions, and perform various actions in response to events.
+JavaScript is a widely-used programming language that allows developers to add dynamic and interactive elements to websites and web applications. JavaScript is a client-side scripting language, which means it runs on the client's web browser and can be used to manipulate web page elements, handle user interactions, and perform various actions in response to events.Some key concepts in JavaScript include:
 
+Variables: JavaScript allows developers to declare and use variables to store and manipulate data, including numbers, strings, arrays, objects, and more.
+
+Operators: JavaScript supports various operators for performing arithmetic, comparison, logical, and other operations on values.
+
+Control Flow: JavaScript includes conditional statements (such as if/else and switch) and loops (such as for and while) for controlling the flow of program execution.
+
+Functions: JavaScript supports defining and using functions, which are blocks of reusable code that can be called with different arguments to perform specific tasks.
+
+Events: JavaScript can handle events, such as user interactions like clicks or key presses, and can respond to those events by executing code.
+
+DOM Manipulation: JavaScript can manipulate the Document Object Model (DOM) of a web page, allowing developers to dynamically change the content, structure, and styling of web page elements.
+
+AJAX: JavaScript can make asynchronous requests to servers to fetch data or update web page content without requiring a full page reload.
+
+Error Handling: JavaScript provides error handling mechanisms, such as try/catch blocks, for handling runtime errors and exceptions.
 
 ### Bootstrap:
 It is a popular open-source front-end framework for building responsive and mobile-first websites and web applications. It provides a collection of CSS, JavaScript, and pre-designed UI components that can be easily integrated into web projects to create modern and visually appealing user interfaces. Bootstrap simplifies the process of designing and developing responsive websites with its grid system, typography, forms, buttons, navigation, and other UI elements. It also offers a variety of customization options, allowing developers to tailor the appearance and behavior of their web projects to suit their specific needs. Bootstrap is widely used in web development and has a large community of developers and resources available for support and documentation.
@@ -97,8 +112,11 @@ To host a website for free, follow these general steps:
 3.Upload your website files using the hosting service's file manager or FTP.
 
 4.Configure your website, including any necessary databases or settings.
+
 5.Test your website to ensure it's functioning properly.
+
 6.Update your domain DNS settings to point to the hosting service's server.
+
 7.Your website is now live and accessible on the internet, hosted for free. Keep in mind that free hosting services may have limitations in terms of storage, bandwidth, and features, and may display ads on your site.
 
 
