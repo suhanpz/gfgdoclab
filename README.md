@@ -55,12 +55,12 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 
 This project is **free to use** and does not contains any license.
 
-## Description:
+### Description:
    In this Project we aim to solve the traditional issues of hospital management.  Medical website designed is to help hospitals and it is also beneficial for different patient to classify their respective disease and their concern doctors.As It is having a special System Checker option which is very beneficial for new patient.
-  ##  Problem Statement/Opportunity: 
+  ###  Problem Statement/Opportunity: 
   These days, due to the pandemic, there has been a great increase in no of patients in the hospitals and one must wait a lot to get any test done. It has become difficult in the selection of suitable medicine for the type of illness and this usually takes time and makes the patient or customer wait. Therefore, the time is being wasted for the customer to be waiting.
 
-  ## Project Description/Solution: 
+  ### Project Description/Solution: 
   This is a medical system designed to manage the activities in the hospital. The new patients can request an appointment with the help of this website.
 
 The website confirms the appointment based on the availability of free slots for the respective doctors and the patient is informed. It is very important to maintain efficient software to handle the information of a hospital.
@@ -69,13 +69,13 @@ This application provides a way to record this information and to access these i
 
 Since we are entering details of the patients electronically in the Hospital Management System, the data will be secured. Thus, processing information will be faster. It guarantees accurate maintenance of patient’s appointments details.
 
-## BUILT WITH:
+### BUILT WITH:
 HTML 
 CSS
 JAVASCRIPT 
 BOOTSTRAP
 
-## HTML:
+### HTML:
 HTML, which stands for Hypertext Markup Language, is the standard markup language used to create web pages and web applications. HTML provides a set of tags and attributes that define the structure, content, and presentation of a web page. Web browsers interpret HTML code and render it into visual web pages that users can view in their web browsers.
 
 Some key concepts in HTML include:
@@ -97,11 +97,7 @@ Forms: HTML provides form elements, such as <form>, <input>, <select>, <textarea
 HTML is the foundation of web development and is used in conjunction with CSS and JavaScript to create web pages and web applications with different layouts, styles, and interactivity. It is a markup language that is easy to learn and essential for creating static and dynamic web content.
 
 
-
-
-
-
-## CSS:
+### CSS:
 CSS, which stands for Cascading Style Sheets, is a stylesheet language used in web development to describe the presentation and appearance of HTML (Hypertext Markup Language) documents. CSS allows developers to control the layout, design, and formatting of web pages, including elements such as fonts, colors, spacing, positioning, and more.
 CSS uses a set of rules and selectors to target HTML elements and apply styles to them. Styles can be defined inline within HTML elements, embedded within HTML documents, or included in separate external CSS files that are linked to HTML documents.
 
@@ -119,17 +115,17 @@ Responsive Design: CSS allows for creating responsive designs that adapt to diff
 
 CSS is a powerful tool for web developers to control the visual appearance of web pages, and it is widely used in conjunction with HTML and JavaScript to create modern and interactive web experiences.
 
-## JAVASCRIPT:
+### JAVASCRIPT:
 JavaScript is a widely-used programming language that allows developers to add dynamic and interactive elements to websites and web applications. JavaScript is a client-side scripting language, which means it runs on the client's web browser and can be used to manipulate web page elements, handle user interactions, and perform various actions in response to events.
 
 
-## Bootstrap:
+### Bootstrap:
 It is a popular open-source front-end framework for building responsive and mobile-first websites and web applications. It provides a collection of CSS, JavaScript, and pre-designed UI components that can be easily integrated into web projects to create modern and visually appealing user interfaces. Bootstrap simplifies the process of designing and developing responsive websites with its grid system, typography, forms, buttons, navigation, and other UI elements. It also offers a variety of customization options, allowing developers to tailor the appearance and behavior of their web projects to suit their specific needs. Bootstrap is widely used in web development and has a large community of developers and resources available for support and documentation.#BOOTSTRAP:
 
 
 
 
-## STEPS TO HOST A WEBSITE: 
+### STEPS TO HOST A WEBSITE: 
 To host a website for free, follow these general steps:
 1.Choose a free web hosting service like GitHub Pages, Netlify, or InfinityFree.
 2.Register a free domain name, or use a subdomain provided by the hosting service.
