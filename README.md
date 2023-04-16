@@ -3,9 +3,11 @@
 
 ## Description:
    In this Project we aim to solve the traditional issues of hospital management.  Medical website designed is to help hospitals and it is also beneficial for different patient to classify their respective disease and their concern doctors.As It is having a special System Checker option which is very beneficial for new patient.
-  ##  Problem Statement/Opportunity: These days, due to the pandemic, there has been a great increase in no of patients in the hospitals and one must wait a lot to get any test done. It has become difficult in the selection of suitable medicine for the type of illness and this usually takes time and makes the patient or customer wait. Therefore, the time is being wasted for the customer to be waiting.
+  ##  Problem Statement/Opportunity: 
+  These days, due to the pandemic, there has been a great increase in no of patients in the hospitals and one must wait a lot to get any test done. It has become difficult in the selection of suitable medicine for the type of illness and this usually takes time and makes the patient or customer wait. Therefore, the time is being wasted for the customer to be waiting.
 
-Project Description/Solution: This is a medical system designed to manage the activities in the hospital. The new patients can request an appointment with the help of this website.
+  ## Project Description/Solution: 
+  This is a medical system designed to manage the activities in the hospital. The new patients can request an appointment with the help of this website.
 
 The website confirms the appointment based on the availability of free slots for the respective doctors and the patient is informed. It is very important to maintain efficient software to handle the information of a hospital.
 
