@@ -72,7 +72,8 @@ Since we are entering details of the patients electronically in the Hospital Man
 ### BUILT WITH:
 HTML 
 CSS
-JAVASCRIPT 
+JAVASCRIPT
+REACT JS
 BOOTSTRAP
 
 ### HTML:
@@ -112,6 +113,31 @@ DOM Manipulation: JavaScript can manipulate the Document Object Model (DOM) of a
 AJAX: JavaScript can make asynchronous requests to servers to fetch data or update web page content without requiring a full page reload.
 
 Error Handling: JavaScript provides error handling mechanisms, such as try/catch blocks, for handling runtime errors and exceptions.
+
+### REACT JS :
+React.js, often simply referred to as React, is an open-source JavaScript library for building user interfaces (UIs) and front-end web applications. Developed and maintained by Facebook, React.js is one of the most popular and widely-used libraries for front-end web development.
+
+Some key concepts in React.js include:
+
+Components: React.js uses a component-based approach to building UIs, where UI elements are encapsulated as reusable components that can be composed together to create complex user interfaces.
+
+JSX: JSX is a syntax extension for JavaScript that allows developers to write HTML-like code directly in their JavaScript files, making it easier to define the structure and appearance of UI components in React.
+
+Virtual DOM: React uses a virtual DOM (Document Object Model) to optimize rendering performance by efficiently updating only the parts of the UI that need to be changed, rather than re-rendering the entire page.
+
+State: React components can have state, which represents the current data and state of the UI. State allows components to be dynamic and respond to user interactions or changes in data.
+
+Props: Props (short for properties) are used to pass data and behavior from parent components to child components in React. Props allow components to be easily composed and reused with different data.
+
+Lifecycle Methods: React components have lifecycle methods that are called at various stages of the component's lifecycle, allowing developers to perform actions such as initialization, updating, and cleanup.
+
+Events: React components can handle events, such as user interactions like clicks or input changes, and respond to them by updating state or triggering actions.
+
+Component Styling: React provides various ways to style components, including inline styles, CSS modules, and popular CSS-in-JS libraries like styled-components or emotion.
+
+React.js is a powerful and flexible library that enables developers to create complex and interactive UIs with ease. It is widely used in modern web development, and its popularity has led to a large ecosystem of tools, libraries, and community support.
+
+
 
 ### Bootstrap:
 It is a popular open-source front-end framework for building responsive and mobile-first websites and web applications. It provides a collection of CSS, JavaScript, and pre-designed UI components that can be easily integrated into web projects to create modern and visually appealing user interfaces. Bootstrap simplifies the process of designing and developing responsive websites with its grid system, typography, forms, buttons, navigation, and other UI elements. It also offers a variety of customization options, allowing developers to tailor the appearance and behavior of their web projects to suit their specific needs. Bootstrap is widely used in web development and has a large community of developers and resources available for support and documentation.
